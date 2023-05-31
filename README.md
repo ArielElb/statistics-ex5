@@ -59,3 +59,9 @@ MSE: 86265.45
 The R-squared value of 0.32 indicates that approximately 32% of the variability in the price can be explained by the "pages" feature alone. This means that the "pages" feature has some influence on the price and can provide a moderate level of explanation.
 
 The MSE value of 86265.45 represents the average squared difference between the predicted prices and the actual prices. A lower MSE indicates better model performance, as it means that the predicted prices are closer to the actual prices. In this case, the MSE value of 86265.45 suggests that, on average, the model's predictions deviate by approximately 86265.45 units from the actual prices.
+
+
+- Coefficients:
+a = 56.74314660349137
+b = 0.4360996658346749
+![image](https://github.com/ArielElb/statistics-ex5/assets/94087682/e5afb850-d7c4-4674-8523-11c1b1db4bb7)
